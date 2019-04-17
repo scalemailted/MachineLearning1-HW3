@@ -11,7 +11,8 @@ Analysis/Predictor on 'Movie Review' dataset using Weka.
 - Results
 
 #Additional:
--python scripts: Time Capture - Weka 
+-scripts: 
+	+timeWeka.py: Run-time Capture for Weka ARFF Conversion
 -reference papers
 
 
