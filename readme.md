@@ -6,8 +6,11 @@ https://github.com/scalemailted/MachineLearning1-HW3
 
 #README:
 Analysis/Predictor on 'Movie Review' dataset using Weka.
-- Preprocessing techniques,
-- Classification techniques,
+- Preprocessing techniques
+	+ Dataset Importation (i.e. Formatting)
+	+ Dataset Tokenization (i.e. Feature/Attribute Identification)
+	+ Feature Ranking/Selection
+- Classification techniques
 - Results
 
 #Additional:
