@@ -4,16 +4,19 @@ Project: *Homework 3*
 Report and files hosted on Github:
 https://github.com/scalemailted/MachineLearning1-HW3
 
-*Project Direcotry:*
+---
+
+*Project Directory:*
 - report:
-	+ Holmberg-HW3-Report.pdf: Project report
+	+ Holmberg-HW3-Report.pdf: ~Project report~
 - scripts:
-	+ timeWeka.py: Run-time Capture for Weka ARFF Conversion
+	+ timeWeka.py: ~Run-time Capture for Weka ARFF Conversion~
 - sources
 	+ reference papers
 
+---
 
-*Ovreview*
+*Overview*\
 Analysis/Predictor on 'Movie Review' dataset using Weka.
 - Problem Statement
 	+ Weka
@@ -27,10 +30,6 @@ Analysis/Predictor on 'Movie Review' dataset using Weka.
 - Results
 	+ Model Comparison
 
-#Additional:
-- scripts: 
-	+ timeWeka.py: Run-time Capture for Weka ARFF Conversion
-- reference papers
 
 
 
